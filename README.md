@@ -10,9 +10,10 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- 👩: Luz Arcos Sánchez
+- 🧡: Andrea Armada Ruiz
+- 🙇‍♂️: Nacho Martínez Torrero
+- 👨: Miguel Velasco García 
 
 
 Proyecto (código): 
@@ -33,7 +34,7 @@ Tipo/Género:
 
 ![](img-nobody.png)
 
-Nombre: 
+Nombre: Huesitos
 
 
 ### Historia
