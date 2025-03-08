@@ -35,6 +35,7 @@ Tipo/Género:
 ![](img-nobody.png)
 
 Nombre: Huesitos
+Ficha del protagonista: https://excalidraw.com/#json=y2onXIYemaZiiwy4YlE7D,go09FD3fG7zol5DcGBTdQg
 
 
 ### Historia
@@ -48,7 +49,7 @@ Nombre: Huesitos
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje: (img personaje y enlace a interactivo)
 
 
 - Banner/Teaser:  (enlace) 
@@ -73,7 +74,7 @@ Nombre: Huesitos
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
 -->
 
-Febrero, 202X
+Febrero, 2025
 
 ![](https://github.com/mgea/CRIAv/blob/main/logo_criav75.png)
 
