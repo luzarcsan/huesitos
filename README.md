@@ -34,8 +34,11 @@ Tipo/Género:
 
 ![](img-nobody.png)
 
-Nombre: Huesitos
-Ficha del protagonista: https://excalidraw.com/#json=y2onXIYemaZiiwy4YlE7D,go09FD3fG7zol5DcGBTdQg
+Nombre: Huesitos </br>
+Ficha del protagonista: https://excalidraw.com/#json=y2onXIYemaZiiwy4YlE7D,go09FD3fG7zol5DcGBTdQg </br>
+<a href="https://postimg.cc/wysRJNWd" target="_blank">
+    <img src="https://i.postimg.cc/wysRJNWd/Sin-t-tulo-2025-03-09-1938.png" style="width: 50%; max-width: 300px;" alt="Sin-título-2025-03-09-1938" />
+</a>
 
 
 
@@ -50,7 +53,11 @@ Ficha del protagonista: https://excalidraw.com/#json=y2onXIYemaZiiwy4YlE7D,go09F
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo)
+- Personaje: </br>
+<a href="https://postimg.cc/R3hHSyKh" target="_blank">
+    <img src="https://i.postimg.cc/R3hHSyKh/perro-salchicha.jpg" style="width: 50%; max-width: 300px;" alt="perro-salchicha" />
+</a>
+
 
 ¡Descubre qué personaje de nuestra historia eres! https://app.lumi.education/run/5Isym-
 
