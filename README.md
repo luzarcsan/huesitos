@@ -1,6 +1,6 @@
 
 # Proyecto Storytelling (template): 
-### my_storytelling
+### my_storytelling_G1
 Plantilla para crear mi historia interactiva de la asignatura [Creatividad e innovación Audiovisual](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis), repositorio de proyectos y documentación en https://github.com/mgea/storytelling
 
 
@@ -16,7 +16,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 - 👨: Miguel Velasco García 
 
 
-Proyecto (código): 
+Proyecto (código): G1F
 URL (link) del proyecto en Github: 
 
 
@@ -38,6 +38,7 @@ Nombre: Huesitos
 Ficha del protagonista: https://excalidraw.com/#json=y2onXIYemaZiiwy4YlE7D,go09FD3fG7zol5DcGBTdQg
 
 
+
 ### Historia
 
 
@@ -51,6 +52,7 @@ Ficha del protagonista: https://excalidraw.com/#json=y2onXIYemaZiiwy4YlE7D,go09F
 
 - Personaje: (img personaje y enlace a interactivo)
 
+¡Descubre qué personaje de nuestra historia eres! https://app.lumi.education/run/5Isym-
 
 - Banner/Teaser:  (enlace) 
 
