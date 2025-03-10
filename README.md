@@ -11,7 +11,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 -->
 
 - 👩: Luz Arcos Sánchez
-- 🧡: Andrea Armada Ruiz
+- 🦋: Andrea Armada Ruiz
 - 🙇‍♂️: Nacho Martínez Torrero
 - 👨: Miguel Velasco García 
 
