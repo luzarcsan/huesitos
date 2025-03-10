@@ -34,11 +34,9 @@ Tipo/Género:
 
 ![](img-nobody.png)
 
-Nombre: Huesitos </br>
-Ficha del protagonista: https://excalidraw.com/#json=y2onXIYemaZiiwy4YlE7D,go09FD3fG7zol5DcGBTdQg </br>
-<a href="https://postimg.cc/wysRJNWd" target="_blank">
-    <img src="https://i.postimg.cc/wysRJNWd/Sin-t-tulo-2025-03-09-1938.png" style="width: 50%; max-width: 300px;" alt="Sin-título-2025-03-09-1938" />
-</a>
+Nombre: Huesitos 
+Ficha del protagonista: https://excalidraw.com/#json=y2onXIYemaZiiwy4YlE7D,go09FD3fG7zol5DcGBTdQg 
+
 
 
 
@@ -53,11 +51,7 @@ Ficha del protagonista: https://excalidraw.com/#json=y2onXIYemaZiiwy4YlE7D,go09F
 
 ### Productos
 
-- Personaje: </br>
-<a href="https://postimg.cc/R3hHSyKh" target="_blank">
-    <img src="https://i.postimg.cc/R3hHSyKh/perro-salchicha.jpg" style="width: 50%; max-width: 300px;" alt="perro-salchicha" />
-</a>
-
+- Personaje: 
 
 ¡Descubre qué personaje de nuestra historia eres! https://app.lumi.education/run/5Isym-
 
@@ -83,7 +77,7 @@ Ficha del protagonista: https://excalidraw.com/#json=y2onXIYemaZiiwy4YlE7D,go09F
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
 -->
 
-Febrero, 2025
+Marzo, 2025
 
 ![](https://github.com/mgea/CRIAv/blob/main/logo_criav75.png)
 
