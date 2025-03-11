@@ -31,11 +31,11 @@ Tipo/Género:
 
 
 ### Personaje
+#### Huesitos 🐕
+![](HUESITOS.png)
 
-![](img-nobody.png)
 
-Nombre: Huesitos 
-Ficha del protagonista: https://excalidraw.com/#json=y2onXIYemaZiiwy4YlE7D,go09FD3fG7zol5DcGBTdQg 
+
 
 
 
