@@ -51,7 +51,7 @@ Tipo/Género:
 
 ### Productos
 
-- Personaje: 
+- Quiz de personalidad: 
 
 ¡Descubre qué personaje de nuestra historia eres! https://app.lumi.education/run/5Isym-
 
