@@ -54,7 +54,8 @@ Tipo/Género:
 - Quiz de personalidad: 
 
 ¡Descubre qué personaje de nuestra historia eres! https://app.lumi.education/run/5Isym-
-![](qrquiz.png)
+
+[![Código QR](qrquiz.png)](https://app.lumi.education/run/5Isym-)
 
 
 - Banner/Teaser:  (enlace) 
