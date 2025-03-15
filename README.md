@@ -33,11 +33,9 @@ Tipo/Género:
 ### Personaje
 #### Huesitos 🐕
 ![](HUESITOS.png)
-
-
-
-
-
+#### Happy Hippo 🦛
+#### Michi 🐈
+#### Pedro P 🦝
 
 
 ### Historia
