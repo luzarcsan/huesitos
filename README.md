@@ -54,7 +54,7 @@ Habrá que redimensionar la foto de la ficha de Huesitos, quizás es un poco má
 
 - Quiz de personalidad: 
 
-¡Descubre qué personaje de nuestra historia eres! https://app.lumi.education/run/5Isym-
+¡Descubre qué personaje de *Operación Huesitos* eres! https://app.lumi.education/run/5Isym-
 
 [![Código QR](qrquizpequeñito.png)](https://app.lumi.education/run/5Isym-)
 
