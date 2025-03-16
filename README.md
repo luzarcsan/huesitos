@@ -28,8 +28,8 @@ Tipo/Género:
 
 
 
-## Resumen
-(sinopsis de 80-120 palabras máximo)
+## Sinopsis
+*Operación Huesitos* narra la valiente historia de Huesitos, un perro salchicha que decide cambiar su vida y rebelarse contra los memes que su dueño crea sobre él. Junto a su fiel amigo Michi, Huesitos inicia una aventura épica que desata una guerra entre animales y humanos que se burlan de ellos. Sin embargo, detrás de esta rebelión se esconde una amenaza aún mayor: el temible jefe Happy Hippo y su ejército de mapaches, quienes planean destruir la sociedad humana para dominar el mundo.
 
 ### Personajes
 <!---
