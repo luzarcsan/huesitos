@@ -58,7 +58,7 @@ Habrá que redimensionar la foto de la ficha de Huesitos, quizás es un poco má
 ¡Descubre qué personaje de *Operación Huesitos* eres! https://app.lumi.education/run/5Isym-
 
 [![Código QR](qrquizpequeñito.png)](https://app.lumi.education/run/5Isym-)
-![](FICHA JUEGO.png)
+![](fichajuego.png)
 
 
 - Banner/Teaser:  (enlace) 
