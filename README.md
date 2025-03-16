@@ -36,7 +36,7 @@ Tipo/Género:
 Habrá que redimensionar la foto de la ficha de Huesitos, quizás es un poco más grande de la cuenta, pero cuando ya tengamos todas las subimos en una misma dimensión
 -->
 #### Huesitos 🐕
-![](HUESITOS.png)
+![](FichaHuesitos.png)
 #### Happy Hippo 🦛
 #### Michi 🐈
 #### Pedro P 🦝
