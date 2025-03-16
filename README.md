@@ -38,9 +38,11 @@ Habrá que redimensionar la foto de la ficha de Huesitos, quizás es un poco má
 #### Huesitos 🐕
 ![](HuesitosFichaRedimensionada.png)
 #### Happy Hippo 🦛
+![](HappyHippoFicha.png)
 #### Michi 🐈
+![](MichiFicha.png)
 #### Pedro P 🦝
-
+![](PedroPFicha.png)
 
 ### Historia
 
