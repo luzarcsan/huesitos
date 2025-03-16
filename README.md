@@ -30,7 +30,7 @@ Tipo/Género:
 ## Resumen
 (sinopsis de 80-120 palabras máximo)
 
-### Personaje
+### Personajes
 <!---
 Habrá que redimensionar la foto de la ficha de Huesitos, quizás es un poco más grande de la cuenta, pero cuando ya tengamos todas las subimos en una misma dimensión
 -->
