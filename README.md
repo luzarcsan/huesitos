@@ -4,7 +4,7 @@
 Plantilla para crear mi historia interactiva de la asignatura [Creatividad e innovación Audiovisual](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis), repositorio de proyectos y documentación en https://github.com/mgea/storytelling
 
 # *Operación Huesitos* 
-![]([DALLE](https://github.com/luzarcsan/huesitos/blob/main/DALL%C2%B7E%202025-03-17%2011.12.24%20-%20A%20dachshund%20dog%2C%20an%20orange%20cat%2C%20a%20raccoon%2C%20and%20a%20baby%20hippopotamus%20engaged%20in%20a%20playful%20fight.%20The%20scene%20is%20dynamic%20and%20cartoonish%2C%20with%20exaggerated%20e.jpg))
+![]([DALLE](https://github.com/luzarcsan/huesitos/blob/main/DALL%C2%B7E%202025-03-17%2011.12.24%20-%20A%20dachshund%20dog%2C%20an%20orange%20cat%2C%20a%20raccoon%2C%20and%20a%20baby%20hippopotamus%20engaged%20in%20a%20playful%20fight.%20The%20scene%20is%20dynamic%20and%20cartoonish%2C%20with%20exaggerated%20e.jpg)
 Autores:  
 <!---
 Incluir lista de personas del grupo 
