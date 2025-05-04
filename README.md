@@ -63,12 +63,12 @@ Habrá que redimensionar la foto de la ficha de Huesitos, quizás es un poco má
 [![Ficha quiz](fichajuego.png)](https://app.lumi.education/run/5Isym-)
 
 
-- Banner/Teaser:  (enlace) 
+- Teaser interactivo:
+¡Navega por el móvil de Huesitos!:
+🖱️ [Ya disponible en Figma](https://www.figma.com/proto/dXbGgSGtlxjZm1pu5S7b7i/IGNACIO-MARTINEZ-TORRERO-s-team-library?node-id=3314-3239&p=f&t=wNQEOfQyfM9oL4AC-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3314%3A3239&show-proto-sidebar=1)
 
-
-- Storytelling: (enlace) 
-
-
+- Juega con nosotros en ArcWeave :video_game::
+Capítulo 1 - [El meme que colmó el plato](https://arcweave.com/app/project/gk6QqR46dK)
 
 
 ### Conclusiones/Valoración del equipo
