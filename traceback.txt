@@ -1,0 +1,32 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 256, in script
+    show abuelita_habla at Transform(zoom), left
+  File "game/script.rpy", line 256, in <module>
+    show abuelita_habla at Transform(zoom), left
+NameError: name 'zoom' is not defined
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 256, in script
+    show abuelita_habla at Transform(zoom), left
+  File "C:\Users\migue\Desktop\Renpy\renpy-8.3.7-sdk\renpy\ast.py", line 1124, in execute
+    show_imspec(self.imspec, atl=getattr(self, "atl", None))
+  File "C:\Users\migue\Desktop\Renpy\renpy-8.3.7-sdk\renpy\ast.py", line 1083, in show_imspec
+    at_list = [ renpy.python.py_eval(i) for i in at_list ]
+  File "C:\Users\migue\Desktop\Renpy\renpy-8.3.7-sdk\renpy\ast.py", line 1083, in <listcomp>
+    at_list = [ renpy.python.py_eval(i) for i in at_list ]
+  File "C:\Users\migue\Desktop\Renpy\renpy-8.3.7-sdk\renpy\python.py", line 1218, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+  File "C:\Users\migue\Desktop\Renpy\renpy-8.3.7-sdk\renpy\python.py", line 1211, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/script.rpy", line 256, in <module>
+    show abuelita_habla at Transform(zoom), left
+NameError: name 'zoom' is not defined
+
+Windows-10-10.0.26100 AMD64
+Ren'Py 8.3.7.25031702
+HUESITOS 1.0
+Sun May 18 13:25:33 2025

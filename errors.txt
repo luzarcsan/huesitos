@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 166: end of line expected.
+    show michi_durmiendo at Transform(align=(0.0, -0.5)), zoom=0.7
+                                                              ^
+
+Ren'Py Version: Ren'Py 8.3.7.25031702
+Sun May 18 12:33:30 2025
