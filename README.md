@@ -47,7 +47,7 @@ Tipo/Género:
 
 
 ### TagLine
-
+*El destino del mundo🗺️ está en patas muy pequeñas🌭*
 
 ### Conflicto 
 Cansado de ser el hazmerreír en memes virales, Huesitos se levanta contra su dueño y enciende la chispa de una rebelión animal. Pero lo que empieza como una lucha por dignidad, pronto revela algo más oscuro: Happy Hippo, un villano oculto, planea usar el caos para apoderarse del mundo con su ejército de mapaches entrenados.
