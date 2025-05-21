@@ -33,9 +33,7 @@ Tipo/Género:
 *Operación Huesitos* narra la valiente historia de Huesitos, un perro salchicha que decide cambiar su vida y rebelarse contra los memes que su dueño crea sobre él. Junto a su fiel amigo Michi, Huesitos inicia una aventura épica que desata una guerra entre animales y humanos que se burlan de ellos. Sin embargo, detrás de esta rebelión se esconde una amenaza aún mayor: el temible jefe Happy Hippo y su ejército de mapaches, quienes planean destruir la sociedad humana para dominar el mundo.
 
 ### Personajes
-<!---
-Habrá que redimensionar la foto de la ficha de Huesitos, quizás es un poco más grande de la cuenta, pero cuando ya tengamos todas las subimos en una misma dimensión
--->
+
 #### Huesitos 🐕
 ![](HuesitosFichaRedimensionada.png)
 #### Happy Hippo 🦛
@@ -70,8 +68,10 @@ Habrá que redimensionar la foto de la ficha de Huesitos, quizás es un poco má
 - Juega con nosotros en ArcWeave :video_game::
 Capítulo 1 - [El meme que colmó el plato](https://arcweave.com/app/project/gk6QqR46dK)
 
-
+- Novela visual en RenP'y 🖥️
+  
 ### Conclusiones/Valoración del equipo
+
 
 
 
