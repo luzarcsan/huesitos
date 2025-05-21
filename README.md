@@ -96,7 +96,9 @@ Proyectos seleccionados de [2023](https://github.com/mgea/storytelling/tree/mast
 
 CC BYNCSA [Creatividad e Innovación Audiovisual-B](https://github.com/mgea/criav/)
 
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png"  width="75" > 
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png"  width="75" >
+
+La atribución CC BY-NC-SA 4.0 te permite usar, compartir y adaptar la obra siempre que nos des créditos como autores, no la uses con fines comerciales y distribuyas aquellas modificaciones que realices bajo la misma licencia 😄
 
 [Facultad de Comunicación y Documentación](http://fcd.ugr.es)
 
