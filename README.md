@@ -43,9 +43,6 @@ Tipo/Género:
 #### Pedro P 🦝
 ![](PedroPFicha.png)
 
-### Historia
-
-
 ### TagLine
 *El destino del mundo🗺️ está en patas muy pequeñas🌭*
 
