@@ -65,7 +65,7 @@ Cansado de ser el hazmerreír en memes virales, Huesitos se levanta contra su du
 - Juega con nosotros en ArcWeave :video_game::
 Capítulo 1 - [El meme que colmó el plato](https://arcweave.com/app/project/gk6QqR46dK)
 
-- Novela visual en RenP'y 🖥️
+- Novela visual en RenP'y 🖥️ https://miguelvg782.itch.io/operacin-huesitos
   
 ### Conclusiones/Valoración del equipo
 La elaboración de nuestra novela visual supone el cierre del proyecto *Operación Huesitos* como parte de la asignatura Creatividad e Innovación Audiovisual. Hemos dado un paso importante en la comprensión de la construcción y el desarrollo de narrativas interactivas en entornos digitales. Esta práctica no solo ha implicado la creación de uno de los capítulos a través de Ren'Py, sino también toda una ideación en torno al diseño de un videojuego, tomando en cuenta aspectos fundamentales en la creación de la atmósfera como el sonido o la música. A su vez, la generación de imágenes a través de Inteligencia Artificial ha sido otro reto que, aunque finalmente nos ha permitido obtener un resultado estético uniforme y satisfactorio, ha implicado una gran elaboración en los prompts y un proceso de error y corrección. Como grupo, nos impresiona el resultado obtenido a partir de aquella tormenta de ideas colectiva en Miro. Desde ahí, fuimos construyendo un universo narrativo desde ideas aparentemente inconexas, que ahora combinan combina humor, crítica social y estética visual, todo pensado para generar una experiencia inmersiva.
